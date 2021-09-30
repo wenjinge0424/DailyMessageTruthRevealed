@@ -1,0 +1,16 @@
+PODS:
+  - JTCalendar (2.2.2)
+
+DEPENDENCIES:
+  - JTCalendar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JTCalendar
+
+SPEC CHECKSUMS:
+  JTCalendar: 20610270b29b309bab398f06fc9e2f1aed67a22c
+
+PODFILE CHECKSUM: 62b7792555661aba5dc47efcc828a8fc67742799
+
+COCOAPODS: 1.5.2
